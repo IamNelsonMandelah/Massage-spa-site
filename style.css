@@ -1,0 +1,42 @@
+#frm1{
+    display:table;
+    background-color: #EDEDEF;
+    padding:20px;
+    margin:10px;
+    width: 600px;
+    height:200px;
+    border-radius: 7px;
+    border: 1px solid #000;
+    cursor:alias;
+}
+p{
+    display:table-row;
+}
+label{
+    padding:10px;
+    margin:5px;
+    align-items:center;
+    text-align: center;
+    display:table-cell;
+}
+
+input[type=text]{
+    width: 200px;
+    align-self: center;
+    padding:5px;
+    margin:4px;
+    display:table-cell;
+}
+input[type=text]:hover{
+    background-color: #ccc;
+}
+
+input[type=submit]{
+    display: table-row;
+    padding:5px;
+    margin:15px;
+    float:right;
+}
+input[type=submit]:hover{
+    background-color: #ccc;
+}
