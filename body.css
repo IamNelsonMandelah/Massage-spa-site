@@ -1,0 +1,43 @@
+.carousel-inner{
+    max-height: 600px;
+
+}
+/* .row2{
+    margin-top: 5px;
+    max-height: 400px;
+    margin-bottom: 5px;
+} */
+
+#haven{
+    margin-top: 25px;
+    text-align: center;
+    text-shadow: 3px;
+
+}
+     
+.Main{
+    text-align: center;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+    
+}
+.imgspa{
+     
+    padding: 5px;
+    border-width: -5px;
+    margin-top: 25px;  
+    margin-bottom: 25px;
+    max-height: 500px;
+    
+    
+}
+
+#spa{
+    margin-top: 25px; 
+    text-align: center;
+    text-shadow: 3px;
+
+}
